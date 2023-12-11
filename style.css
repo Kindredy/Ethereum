@@ -133,10 +133,3 @@ main .textButtons a {
   padding: 2% 3%;
   font-weight: 700;
 }
-
-.imgContainer {
-  position: absolute;
-  top: 50%;
-  right: 15%;
-  transform: translate(-25%, -50%);
-}
